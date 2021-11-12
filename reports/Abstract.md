@@ -3,7 +3,7 @@ Dietary methionine restriction (MR), for over 2 decades, has garnered interest i
 epigenetic factors such as miRNAs, as a target for the MR phenotype. In light of this discovery, few studies have been documented using non-model organisms like the teleost fish, rainbow trout, in methionine restriction research. For the studies that have, multiple tissues were not investigated for altered miRNA expression during methionine
 restriction to elucidate the conservation of their function across different tissues.
 
-### Main Objectives: 
+### Main Objective: 
 To investigate the effects of miRNA expression in insulin-dependent rainbow trout tissues on metabolism and insulin sensitivity during methionine restriction
 
 ### Methodology: 
