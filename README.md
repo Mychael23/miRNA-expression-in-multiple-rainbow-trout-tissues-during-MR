@@ -5,9 +5,3 @@ Dietary methionine restriction (MR), for over 2 decades, has garnered interest i
 
 ### Main Objective:
 To investigate the effects of miRNA expression in insulin-dependent rainbow trout tissues on metabolism and insulin sensitivity during methionine restriction
-
-### Methodology:
-This will be a cross-sectional study. A total of 16 juvenile rainbow trout would be used. Their growth rate and weight be fore and after the 8 week period would be used to determined. After the study period of 8 weeks of being fed specific dietary regimes, they will be euthanised, muscle, adipose and liver samples will be taken, snap frozen in liquid nitrogen, and stored at −80C until analysis. RNA was extracted isolation of total RNA. From total RNA, MiRNA would be quantified. MiRanda 3.0 would be used to predict miRNA- gene interaction for the miRNA identified and quantified.
-
-### Expected Outcomes:
-The miRNA expression levels in various insulin dependent-tissues during methionine restriction would be classified. The miRNAs found in more than one tissue which is associated with the metabolic MR phenotype would be identified.
