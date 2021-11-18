@@ -11,7 +11,7 @@
                -  `iput -rP # put copy of your cloned repo in the Data Store`
                -  `iput -rP miRNA-expression-in-multiple-rainbow-trout-tissues-during-MR .
                -  
- #After Analyses have been carried out or changes have beem mamde on Cyvevrse Data Store
+ #After Analyses have been carried out or changes have beem made on Cyverse Data Store
  
  ###  Push notebooks back to my GH project repository 
 
