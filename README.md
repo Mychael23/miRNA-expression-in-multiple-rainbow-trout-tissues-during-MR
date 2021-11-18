@@ -5,3 +5,6 @@ Dietary methionine restriction (MR), for over 2 decades, has garnered interest i
 
 ### Main Objective:
 To investigate the effects of miRNA expression in insulin-dependent rainbow trout tissues on metabolism and insulin sensitivity during methionine restriction
+
+### HackMD link to workflow for integrating with CyVerse Discovery Environment
+https://hackmd.io/Kp3NrWCASuCHM4EDRzzcAQ?both
